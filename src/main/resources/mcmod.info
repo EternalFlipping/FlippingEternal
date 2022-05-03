@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "FlippingEternal",
+    "name": "FlippingEternal",
+    "description": "Become rich in Hypixel Skyblock.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/FlippingEternal/FlippingEternal",
+    "updateUrl": "https://github.com/FlippingEternal/FlippingEternal",
+    "authorList": [
+      "Jesus"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
